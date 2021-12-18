@@ -72,5 +72,10 @@
     font-family: 'Comfortaa', cursive;
     font-family: 'Source Sans Pro', sans-serif;
   }
+
+  .qr{
+    float: right;
+    margin-bottom: 500px;
+  }
   
   
